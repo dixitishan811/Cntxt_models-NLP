@@ -185,7 +185,7 @@ for epochs in range(10):
           (loss / len(train), val_correct / len(train)))
     
 
-### Validation Accuracy ###
+### Validation ###
 
 loss = 0
 val_correct = 0    
