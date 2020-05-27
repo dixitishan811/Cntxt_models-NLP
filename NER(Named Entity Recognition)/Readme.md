@@ -22,7 +22,7 @@
 
 ![Image of Reuslt](https://github.com/ishan-ml/Cntxt_models-NLP/blob/master/NER(Named%20Entity%20Recognition)/Capture.PNG)
 
-## 2.spaCy(Custom Trained)
+## 2.spaCy(Custom Trained) :
 These are the results after 30 iterations :
 
 **Precision: 76.77419354838709, Recall: 71.25748502994011, F1 Score: 73.91304347826086**
