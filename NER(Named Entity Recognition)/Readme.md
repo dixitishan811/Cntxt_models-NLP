@@ -27,4 +27,4 @@ These are the results after 30 iterations :
 
 **Precision: 76.77419354838709, Recall: 71.25748502994011, F1 Score: 73.91304347826086**
 
-*These are the overall scores label wise score can be found in the notebook.*
+*These are the overall scores,label wise score can be found in the notebook.*
