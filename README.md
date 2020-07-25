@@ -4,4 +4,4 @@
 For NER recognition several models have been tested state of the art  BiLSTM+CRF,CRF,spaCy,LSTM were tested to sort out the best performing model.
 Results are mentioned in the individual folder in their respective readme.
 
-To make this project end to end Flask was used to deploy an end to ned web application.
+To make this project end to end Flask was used to deploy an end to end web application.
